@@ -118,6 +118,7 @@ img {max-width: 100% }
 .newsletter button {width: 20%; float: none;}
 .logoban {display: block; width: 15%; float: right; border-radius: 20px;}
 .logop {display: none;}
+.cabecalho nav{position: fixed; left: 0; top: 0; width: 100%;}
 
 }
 
